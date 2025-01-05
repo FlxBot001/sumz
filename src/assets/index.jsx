@@ -16,6 +16,7 @@ export {
     copy,
 
     logo,
-    
+
     tick
+    
 }
