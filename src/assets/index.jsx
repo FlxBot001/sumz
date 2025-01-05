@@ -12,8 +12,9 @@ export {
     linkIcon,
     
     loader,
-    
+
     copy,
+    
     logo,
     tick
 }
