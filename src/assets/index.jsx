@@ -14,7 +14,8 @@ export {
     loader,
 
     copy,
-    
+
     logo,
+    
     tick
 }
